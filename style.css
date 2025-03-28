@@ -1,0 +1,47 @@
+body {
+    padding: 12px;
+    display:block;
+}
+
+h1 {
+    margin-bottom: 22px;
+    text-decoration: underline;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+.section_1 {
+    padding: 12px;
+    border: 1px solid;
+}
+
+.section_2 {
+    margin-top: 12px;
+}
+
+.section_3 {
+    margin-top: 12px;
+}
+
+img {
+   
+    width:300px;
+    height:200px;
+}
+
+.list_container {
+    padding: 0px 18px;
+}
+
+a {
+    text-decoration: none;
+}
